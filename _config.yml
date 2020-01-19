@@ -93,7 +93,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics:
+google_analytics: UA-156518455-1
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: false
